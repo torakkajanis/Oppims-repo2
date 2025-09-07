@@ -7,7 +7,9 @@
 2. numeroitu lista jatkuu
 - numeroimaton lista
 - numeroimaton lista jatkuu
+
  [Linkki GitHubiin](https://github.com/torakkajanis/Oppims-repo2)
+ 
  ![norttimeemikuva](https://pbs.twimg.com/media/ChrcsJ9UgAEE4-q?format=jpg&name=900x900)
 
 | Sarake 1 | Sarake 2 |
